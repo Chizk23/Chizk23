@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: MultiMinutes AI 🎙️ & GNN Visualization system 🧪.<br><br>👯 Collaborating on: Innovative AI tools or Full-stack web projects 🏗️.<br><br>🤝 Seeking help with: Advanced GNN architectures & data viz pro-tips 📈.<br><br>🌱 Learning: Japanese 🇯🇵, NLP, and Computer Vision 👁️.<br><br>💬 Chat about: Japanese IT @ DUT 🎓, Arduino tinkering 🛠️, or Python/React.<br><br>⚡ Fun fact: My lucky number is 23 🎂 | Huge fan of Japanese baseball ⚾.
+🔭 Working on: MultiMinutes AI 🎙️ & GNN Visualization system 🧪.<br><br>👯 Collaborating on: Innovative AI tools or Full-stack web projects 🏗️.<br><br>🤝 Seeking help with: Advanced GNN architectures & data viz pro-tips 📈.<br><br>🌱 Learning: Japanese 🇯🇵, NLP, and Computer Vision 👁️.<br><br>💬 Chat about: Japanese IT @ DUT 🎓, Python/React.<br><br>⚡ Fun fact: Born on the 23rd 🎂 | I love Japanese baseball ⚾.
 
 
 ## 🌐 Socials:
