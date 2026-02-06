@@ -143,6 +143,77 @@
 ### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
 ![](https://visitcount.itsvg.in/api?id=Chizk23&icon=0&color=0)
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/gameAI-group/KOMBAT_AI_PROJECT">
+<img src="https://img.shields.io/badge/🤖_Kombat_AI-Fighting_Game-blueviolet?style=for-the-badge"/>
+</a>
+<br/>
+<sub><b>Python • Pygame • AI/ML</b></sub>
+<br/>
+<sub>3-level adaptive AI opponent</sub>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Chizk23/ras_iot">
+<img src="https://img.shields.io/badge/💊_Pill_Counter-AI_Pharmacy-success?style=for-the-badge"/>
+</a>
+<br/>
+<sub><b>Flask • YOLOv11 • Raspberry Pi</b></sub>
+<br/>
+<sub>Real-time pill detection</sub>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Chizk23/trekking-web">
+<img src="https://img.shields.io/badge/🏔️_TrekViet-Trekking_Platform-green?style=for-the-badge"/>
+</a>
+<br/>
+<sub><b>Django • MySQL • Bootstrap</b></sub>
+<br/>
+<sub>Community & gamification</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Pbl3-Group/Pbl3">
+<img src="https://img.shields.io/badge/💼_Part--Time_Jobs-Marketplace-orange?style=for-the-badge"/>
+</a>
+<br/>
+<sub><b>ASP.NET MVC • MySQL • C#</b></sub>
+<br/>
+<sub>Automated workflows</sub>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Chizk23/NGAN_HANG_DE_THI">
+<img src="https://img.shields.io/badge/🏦_Exam_Bank-AI_Education-blue?style=for-the-badge"/>
+</a>
+<br/>
+<sub><b>Java Swing • MySQL • Gemini</b></sub>
+<br/>
+<sub>AI question extraction</sub>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/Chizk23/DOTNET">
+<img src="https://img.shields.io/badge/🌐_DOTNET-Web_App-purple?style=for-the-badge"/>
+</a>
+<br/>
+<sub><b>.NET • ASP.NET • C#</b></sub>
+<br/>
+<sub>Clean architecture</sub>
+</td>
+</tr>
+</table>
+
+---
 
 **⭐ From [Chizk23](https://github.com/Chizk23) with ❤️**
 
