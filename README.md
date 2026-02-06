@@ -70,10 +70,10 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-### AI/ML Frameworks
+### AI/ML & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -86,7 +86,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Tools & Platforms
+### Development Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chizk23&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chizk23&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -109,13 +109,20 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Chizk23&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizk23&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizk23&theme=dracula&hide_border=true" alt="GitHub Streak" />
+![](https://github-readme-stats.vercel.app/api?username=Chizk23&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chizk23&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chizk23&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chizk23&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Chizk23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chizk23&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -125,7 +132,7 @@
 
 <div align="center">
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 </div>
 
@@ -133,10 +140,10 @@
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Chizk23&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=Chizk23&icon=0&color=0)
 
-**⭐ From [Chizk23](https://github.com/Chizk23)**
+**⭐ From [Chizk23](https://github.com/Chizk23) with ❤️**
 
 </div>
