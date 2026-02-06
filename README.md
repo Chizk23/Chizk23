@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanh-huyền-nguyễn-a06416386)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenthanhhuyen230305@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Chizk23&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -96,21 +98,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chizk23&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chizk23&theme=dracula)
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizk23&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chizk23&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chizk23&theme=dracula)
 
 </div>
 
@@ -186,7 +181,7 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
 
@@ -199,8 +194,6 @@
 <div align="center">
 
 ### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
-
-![](https://visitcount.itsvg.in/api?id=Chizk23&icon=0&color=0)
 
 **⭐ From [Chizk23](https://github.com/Chizk23) with ❤️**
 
