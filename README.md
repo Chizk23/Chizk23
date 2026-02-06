@@ -126,13 +126,13 @@
 </td>
 
 <td align="center" width="33%">
-<a href="https://github.com/Chizk23/ras_iot">
+<a href="https://github.com/pbl4-hotrodemthuoc/PILL-COUNTER-PROJECT">
 <img src="https://img.shields.io/badge/💊_Pill_Counter-AI_Pharmacy-success?style=for-the-badge"/>
 </a>
 <br/>
 <sub><b>Flask • YOLOv11 • Raspberry Pi</b></sub>
 <br/>
-<sub>Real-time pill detection</sub>
+<sub>Real-time pill counting</sub>
 </td>
 
 <td align="center" width="33%">
