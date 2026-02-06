@@ -98,11 +98,17 @@
 
 ---
 
-## 📊 GitHub Activity (2025-2026)
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chizk23&theme=dracula)
+### 📈 Contribution Overview (2025-2026)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chizk23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chizk23&theme=dracula)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chizk23&theme=dracula&hide_border=true)
 
 </div>
 
