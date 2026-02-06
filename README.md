@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity (2025-2026)
 
 <div align="center">
 
