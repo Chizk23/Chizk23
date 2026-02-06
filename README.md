@@ -104,8 +104,11 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chizk23&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chizk23&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chizk23&theme=dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chizk23&theme=dracula" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chizk23&theme=dracula" alt="Most Commit Language" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chizk23&theme=dracula" alt="Stats" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chizk23&theme=dracula&utcOffset=7" alt="Productive Time" width="48%" />
 
 </div>
 
